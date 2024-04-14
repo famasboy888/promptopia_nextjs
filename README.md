@@ -2,7 +2,7 @@
 
 It implements the following:
 
-[x] CRUD
+- [x] CRUD
 
 
 <p align="center">
