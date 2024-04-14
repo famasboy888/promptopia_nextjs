@@ -29,3 +29,5 @@ Todo:
 <p align="center">
   <img width="100%" height="100%" src="https://github.com/famasboy888/promptopia_nextjs/assets/23441168/6de779d0-4843-4c6a-af06-8adf7acbb5cc">
 </p>
+
+_Course: [Javascript Mastery](https://www.youtube.com/@javascriptmastery)_
